@@ -1,0 +1,18 @@
+*,
+body {
+  margin: 0px;
+  padding: 0px;
+}
+nav {
+  color: #fff;
+}
+.any {
+  padding-left: 20px;
+}
+.cardss {
+  background-color: darkgray;
+  border-radius: 15px;
+}
+.rowing {
+  padding-top: 10px;
+}
